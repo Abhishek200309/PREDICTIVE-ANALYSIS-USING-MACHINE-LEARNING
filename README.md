@@ -129,6 +129,6 @@ By following this pipeline, we gain practical experience in data cleaning, model
 
 # Conclusion
 
-This project showcases a complete machine learning pipeline applied to the Titanic dataset, from raw data to an automatically generated HTML report. By walking through preprocessing, training, evaluation, and visualization, it provides a strong foundation for beginners in data science and machine learning.
+This project showcases a complete machine learning pipeline applied to the Titanic dataset, from raw data to an automatically generated HTML report. By walking through preprocessing, training, evaluation, and visualization, it provides a strong foundation in data science and machine learning.
 
 The approach is not only practical for the Titanic dataset but can also be applied to other binary classification problems in real-world scenarios.
