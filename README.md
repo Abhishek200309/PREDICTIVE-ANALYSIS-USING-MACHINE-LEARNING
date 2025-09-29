@@ -30,7 +30,7 @@ Automated HTML reporting for easy interpretation
 
 By following this pipeline, we gain practical experience in data cleaning, model building, evaluation, and reporting, which are essential skills in real-world data science projects.
 
-🛠️ Tools & Libraries Used
+# Tools & Libraries Used
 
 Python 3.x – Core programming language
 
@@ -46,7 +46,7 @@ io & base64 – To embed images directly in HTML reports
 
 Webbrowser – To open the generated report automatically
 
-⚙️ Workflow Explanation
+# Workflow Explanation
 1. Data Loading
 
 We begin by loading the Titanic dataset (CSV format) into a Pandas DataFrame. This dataset contains features like Pclass (ticket class), Sex, Age, Fare, and Embarked, along with the target variable Survived.
@@ -99,7 +99,7 @@ Performance Metrics Chart – Bar chart comparing precision, recall, and F1-scor
 
 All results (accuracy, best parameters, metrics, and charts) are compiled into an HTML report. Plots are embedded directly into the file using base64 encoding, so the report is fully portable with no external dependencies.
 
-📊 Results & Insights
+# Results & Insights
 
 Logistic Regression achieved solid accuracy on the Titanic dataset.
 
@@ -109,7 +109,7 @@ The confusion matrix revealed that while the model was good at identifying non-s
 
 The generated HTML report provides a user-friendly summary that combines text-based metrics with visuals, making evaluation intuitive.
 
-🚀 Key Learnings
+# Key Learnings
 
 Data preprocessing is crucial – Handling missing values, scaling, and encoding categorical variables significantly impact model performance.
 
@@ -124,7 +124,7 @@ Logistic Regression is interpretable – It provides a simple yet effective base
 <img width="1261" height="516" alt="Image" src="https://github.com/user-attachments/assets/ecc8ac97-dfba-4b71-9357-7bf1096e7443" />
 <img width="1241" height="475" alt="Image" src="https://github.com/user-attachments/assets/6e7ff618-f9ae-4efe-b008-29986bcc65c4" />
 
-📖 Conclusion
+# Conclusion
 
 This project showcases a complete machine learning pipeline applied to the Titanic dataset, from raw data to an automatically generated HTML report. By walking through preprocessing, training, evaluation, and visualization, it provides a strong foundation for beginners in data science and machine learning.
 
