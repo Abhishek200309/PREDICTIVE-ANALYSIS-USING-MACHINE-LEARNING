@@ -55,14 +55,14 @@ By following this pipeline, we gain practical experience in data cleaning, model
 2. Data Preprocessing & Feature Engineering
 
   Since machine learning algorithms work best with numeric, clean data, we perform several preprocessing steps:
-
-    - Dropping rows with missing survival labels.
-
-    - Handling missing values: replacing missing Age with the median and missing Embarked values with the mode.
-
-    - Encoding categorical features (Sex and Embarked) into numeric values using LabelEncoder.
-
-    - Scaling numerical features with StandardScaler to ensure all features have similar ranges.
+  
+  - Dropping rows with missing survival labels.
+    
+  - Handling missing values: replacing missing Age with the median and missing Embarked values with the mode.
+    
+  - Encoding categorical features (Sex and Embarked) into numeric values using LabelEncoder.
+    
+  - Scaling numerical features with StandardScaler to ensure all features have similar ranges.
 
 3. Splitting Data
 
@@ -77,25 +77,25 @@ By following this pipeline, we gain practical experience in data cleaning, model
 
   The model’s predictions are compared to actual labels in the test set. We calculate:
 
-    - Accuracy – Percentage of correct predictions.
-
-    - Precision – Correctness of positive (Survived) predictions.
-
-    - Recall – Ability to detect all actual survivors.
-
-    - F1-Score – Balance between precision and recall.
+   - Accuracy – Percentage of correct predictions.
+     
+   - Precision – Correctness of positive (Survived) predictions.
+     
+   - Recall – Ability to detect all actual survivors.
+     
+   - F1-Score – Balance between precision and recall.
 
   We also generate a classification report and confusion matrix to provide a detailed breakdown of model performance.
 
 6. Visualization
 
   To make results easier to interpret, we include:
-
-    - Confusion Matrix Heatmap – Shows correct vs incorrect predictions.
-
-    - Class Distribution Plot – Displays balance of classes in the dataset.
-
-    - Performance Metrics Chart – Bar chart comparing precision, recall, and F1-score.
+  
+  - Confusion Matrix Heatmap – Shows correct vs incorrect predictions.
+    
+  - Class Distribution Plot – Displays balance of classes in the dataset.
+  
+  - Performance Metrics Chart – Bar chart comparing precision, recall, and F1-score.
 
 7. Automated HTML Report
 
