@@ -126,6 +126,10 @@ By following this pipeline, we gain practical experience in data cleaning, model
 <img width="1335" height="578" alt="Image" src="https://github.com/user-attachments/assets/cabb485c-87d4-4adb-9d99-5f0e00cb9ba7" />
 <img width="1261" height="516" alt="Image" src="https://github.com/user-attachments/assets/ecc8ac97-dfba-4b71-9357-7bf1096e7443" />
 <img width="1241" height="475" alt="Image" src="https://github.com/user-attachments/assets/6e7ff618-f9ae-4efe-b008-29986bcc65c4" />
+<img width="648" height="588" alt="Image" src="https://github.com/user-attachments/assets/ca0b819f-dd71-463f-b96a-e8ab56979e57" />
+<img width="637" height="604" alt="Image" src="https://github.com/user-attachments/assets/c2351fa7-eb7d-4968-81f7-f523c609a9a1" />
+<img width="789" height="598" alt="Image" src="https://github.com/user-attachments/assets/2147904b-55ce-4ed3-92a0-aa963f65df31" />
+<img width="754" height="590" alt="Image" src="https://github.com/user-attachments/assets/79d7b34b-52e2-4dd7-adb3-1a2950baffa9" />
 
 # Conclusion
 
