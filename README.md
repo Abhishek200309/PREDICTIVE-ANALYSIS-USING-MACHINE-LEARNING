@@ -1,17 +1,5 @@
 # PREDICTIVE-ANALYSIS-USING-MACHINE-LEARNING
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: ABHISHEK VICTOR RAJ MANESH
-
-*INTERN ID*: CT12DY2725
-
-*DOMAIN*: DATA ANALYTICS
-
-*DURATION*: 12 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 # Description
 
 This project applies machine learning techniques to the classic Titanic dataset, which records details about passengers on the Titanic and whether they survived. The main objective is to build a classification model that predicts survival based on passenger attributes such as age, sex, ticket class, and fare.
